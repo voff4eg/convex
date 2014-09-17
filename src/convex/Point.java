@@ -1,3 +1,10 @@
+/**
+ * @author Vladimir Egorov
+ *
+ * Класс точки 
+ * 
+ */
+
 package convex;
 
 import java.io.Serializable;

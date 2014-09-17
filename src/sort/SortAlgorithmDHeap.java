@@ -1,3 +1,10 @@
+/**
+ * @author Vladimir Egorov
+ *
+ * Класс сортировки d-кучей
+ * 
+ */
+
 package sort;
 
 import utils.Utils;

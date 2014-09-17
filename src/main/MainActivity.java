@@ -1,3 +1,8 @@
+/**
+ * @author Vladimir Egorov
+ *
+ */
+
 package main;
 
 import java.io.BufferedReader;

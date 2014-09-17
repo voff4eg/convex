@@ -1,3 +1,10 @@
+/**
+ * @author Vladimir Egorov
+ *
+ *  ласс нахождени€ минимальной выпуклой оболочки
+ * 
+ */
+
 package convex;
 
 import sort.SortAlgorithmDHeap;
@@ -21,10 +28,6 @@ public class ConvexHull {
                     if (a[i].getX() < c.getX()) {
                             c = a[i];
                             m = i;
-                    } else if (a[i].getX() > c.getX()) {
-                            // Ќ≈ сравниваем вещественные числа на строгое
-                            // равенство/неравенство (плоха€ практика)
-                            continue;
                     }
                     if (a[i].getY() < c.getY()) {
                             c = a[i];

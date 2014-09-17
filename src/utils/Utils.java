@@ -1,3 +1,11 @@
+/**
+ * @author Vladimir Egorov
+ *
+ * Вспомогательный класс
+ * 
+ * Меняем местами объекты с индексами a и b
+ */
+
 package utils;
 
 public class Utils {
